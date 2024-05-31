@@ -277,7 +277,7 @@
 				<Title>nasa_sedac_earthquake_hazard_frequency_and_distribution</Title>
 				<Abstract>GH:nasa_sedac_earthquake_hazard_frequency_and_distribution ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:tif:::disabledownload:notListing::maxZoom:4</Keyword>
+					<Keyword>group:tif:::disabledownload:notListing::maxZoom:6</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-180.0" miny="-58.0" maxx="180.0" maxy="85.0"></LatLonBoundingBox>
@@ -297,7 +297,7 @@
 				<Title>openstreetmap</Title>
 				<Abstract>GH:openstreetmap ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:tif:::disabledownload:notListing::maxZoom:4</Keyword>
+					<Keyword>group:tif:::disabledownload:notListing::maxZoom:6</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-180.0" miny="-85.0511287798066" maxx="179.99999999999997" maxy="85.0511287798066"></LatLonBoundingBox>
