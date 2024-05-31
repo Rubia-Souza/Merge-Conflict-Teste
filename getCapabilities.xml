@@ -177,7 +177,7 @@
 				<Title>nasa_sedac_earthquake_hazard_distribution___peak_ground_acceleration</Title>
 				<Abstract>GH:nasa_sedac_earthquake_hazard_distribution___peak_ground_acceleration ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:tif:::disabledownload:notListing::maxZoom:7</Keyword>
+					<Keyword>group:tif:::disabledownload:notListing::maxZoom:3</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-180.0" miny="-58.0" maxx="180.0" maxy="85.0"></LatLonBoundingBox>
